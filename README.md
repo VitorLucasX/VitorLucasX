@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Vitor Lucas! 🖐🏼
-### Desenvolvedor Full Stack
+### Desenvolvedor Front-end
 Formado em Análise e Desenvolvimento de Sistemas 📙🖥️
 
 ##
@@ -7,7 +7,6 @@ Formado em Análise e Desenvolvimento de Sistemas 📙🖥️
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorLucasX&show_icons=true&theme=dark)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vitor-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
   <img align="center" alt="Vitor-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img align="center" alt="Vitor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Vitor-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
