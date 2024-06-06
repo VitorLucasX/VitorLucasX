@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Vitor Lucas! 🖐🏼
-### Desenvolvedor Front-end
-Formado em Análise e Desenvolvimento de Sistemas 📙🖥️
-
+### Desenvolvedor Front-end em busca do Full Stack
 ##
 
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorLucasX&show_icons=true&theme=dark)
