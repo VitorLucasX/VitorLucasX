@@ -6,6 +6,7 @@
 <h1 align="center"> Sobre Mim </h1>
 <ul align="left">
   <Li>Apaixonado por programação, games e literatura.</Li>
+  <Li>Formado em Análise e Desenvolvimento de Sistemas - Pitágoras</Li>
   <li>💻 Estudei na <a href="https://www.coderhouse.com/br/">Coder House</a>, <a href="https://www.udemy.com/">Udemy</a> e <a href="https://www.alura.com.br/">Alura.</a>
   <li>Atualmente com muito foco nos estudos em back-end com o intuito de virar Dev Full Stack.</li>
   <li>Minha última experiência foi com criação/manutenção de APIS Rest usando Java Spring, controle de banco de dados com SQL Server, integração ao front-end com Typescript e Angular e versionamento com Github/Jenkins</li>
