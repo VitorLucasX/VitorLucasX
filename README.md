@@ -7,8 +7,8 @@
 <ul align="left">
   <Li>Apaixonado por programação, games e literatura.</Li>
   <li>💻 Estudei na <a href="https://www.coderhouse.com/br/">Coder House</a>, <a href="https://www.udemy.com/">Udemy</a> e <a href="https://www.alura.com.br/">Alura.</a>
-  <li>Atualmente com muito foco e estudo em back-end com o intuito de virar Full Stack.</li>
-  <li>Minha última experiência foi com criação/manuntenção de APIS Rest usando Java Spring, controle de banco de dados com SQL Server, integração ao front-end com Typescript e Angular e versionamento com Github/Jenkins</li>
+  <li>Atualmente com muito foco nos estudos em back-end com o intuito de virar Dev Full Stack.</li>
+  <li>Minha última experiência foi com criação/manutenção de APIS Rest usando Java Spring, controle de banco de dados com SQL Server, integração ao front-end com Typescript e Angular e versionamento com Github/Jenkins</li>
   <Li>🚀Inglês escrita e leitura.</Li>
 </ul>
 
@@ -138,11 +138,6 @@
 
 <h1 align="center"> Atividade </h1>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VitorLucasX&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
-
- 
-<div align="center">
- <img  align="right" width= "450px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=VitorLucasX&theme=tokyonight&layout=pie" />
-</div>
 
 <div align= "center" >
  <br/><br/><br/>
