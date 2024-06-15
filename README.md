@@ -26,16 +26,6 @@
         </sub>
       </a>
     </td>
-      <td align="center">
-      <a href="https://angular.dev/">
-        <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Angular icon"/><br/>
-        <sub>
-          <b>
-            <pre>Angular</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
         <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br/>
@@ -76,54 +66,14 @@
         </sub>
       </a>
     </td>
-     <td align="center">
-      <a href="https://www.java.com/pt-BR/">
-        <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java"/><br/>
-        <sub>
-          <b>
-            <pre>Java</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
     </tr>
      <tr>
-         <td align="center">
-      <a href="https://spring.io/">
-        <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="Spring boot icon"/><br/>
-        <sub>
-          <b>
-            <pre>Springboot</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-        <td align="center">
-      <a href="https://www.mysql.com/">
-        <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br/>
-        <sub>
-          <b>
-            <pre>MySQL</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
         <td align="center">
       <a href="https://www.git-scm.com/">
         <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br/>
         <sub>
           <b>
             <pre>Git</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-         <td align="center">
-      <a href="https://www.jenkins.io/">
-        <img src="https://skillicons.dev/icons?i=jenkins" width="65px" alt="Jenkins icon"/><br/>
-        <sub>
-          <b>
-            <pre>Jenkins</pre>
           </b>
         </sub>
       </a>
