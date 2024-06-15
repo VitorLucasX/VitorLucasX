@@ -14,7 +14,7 @@
 </ul>
 
 <h1 align="center"> Minhas Hards Skills </h1>
-<table align="center" height="300px">
+<table align="center" height="160px">
   <tr>
     <td align="center">
       <a href="https://pt-br.reactjs.org/">
@@ -66,9 +66,7 @@
         </sub>
       </a>
     </td>
-    </tr>
-     <tr>
-        <td align="center">
+    <td align="center">
       <a href="https://www.git-scm.com/">
         <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br/>
         <sub>
@@ -78,11 +76,10 @@
         </sub>
       </a>
     </td>
-    </tr>
 </table>
 
 <h1 align="center"> Minhas Basic Skills </h1>
-<table align="center" height="300px">
+<table align="center" height="160px">
   <tr>
       <td align="center">
       <a href="https://angular.dev/">
@@ -104,8 +101,6 @@
         </sub>
       </a>
     </td>
-    </tr>
-     <tr>
          <td align="center">
       <a href="https://spring.io/">
         <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="Spring boot icon"/><br/>
