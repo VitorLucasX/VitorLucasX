@@ -131,6 +131,64 @@
     </tr>
 </table>
 
+<h1 align="center"> Minhas Basic Skills </h1>
+<table align="center" height="300px">
+  <tr>
+      <td align="center">
+      <a href="https://angular.dev/">
+        <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Angular icon"/><br/>
+        <sub>
+          <b>
+            <pre>Angular</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://www.java.com/pt-BR/">
+        <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java"/><br/>
+        <sub>
+          <b>
+            <pre>Java</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    </tr>
+     <tr>
+         <td align="center">
+      <a href="https://spring.io/">
+        <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="Spring boot icon"/><br/>
+        <sub>
+          <b>
+            <pre>Springboot</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="https://www.mysql.com/">
+        <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br/>
+        <sub>
+          <b>
+            <pre>MySQL</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+         <td align="center">
+      <a href="https://www.jenkins.io/">
+        <img src="https://skillicons.dev/icons?i=jenkins" width="65px" alt="Jenkins icon"/><br/>
+        <sub>
+          <b>
+            <pre>Jenkins</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    </tr>
+</table>
+
 <h1 align="center"> Social </h1>
 <div align="center"> 
   <a href="https://www.linkedin.com/in/VitorLucasX" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50px" target="_blank"></a> 
