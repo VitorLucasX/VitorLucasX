@@ -9,7 +9,7 @@
   <Li>Formado em Análise e Desenvolvimento de Sistemas - Pitágoras</Li>
   <li>💻 Estudei na <a href="https://www.coderhouse.com/br/">Coder House</a>, <a href="https://www.udemy.com/">Udemy</a> e <a href="https://www.alura.com.br/">Alura.</a>
   <li>Atualmente com muito foco nos estudos em back-end com o intuito de virar Dev Full Stack.</li>
-  <li>Minha última experiência foi com criação/manutenção de APIS Rest usando Java Spring, controle de banco de dados com SQL Server, integração ao front-end com Typescript e Angular e versionamento com Github/Jenkins</li>
+  <li>Minha última experiência foi com criação/manutenção de APIS Rest usando Java Spring, controle de banco de dados com SQL Server, criação de aplicação com base em protótipo do Figma, integração ao front-end com Typescript e Angular e versionamento com Github/Jenkins</li>
   <Li>🚀Inglês escrita e leitura.</Li>
 </ul>
 
