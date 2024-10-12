@@ -1,6 +1,7 @@
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&weight=600&size=30&duration=4994&pause=995&color=5A11F7&background=80616100&random=false&width=600&height=60&lines=Hello+Welcome!;I+am+Vitor+Lucas.;Front-end+Developer.)](https://git.io/typing-svg)
+<h1 align="center"> ⭐ Welcome! ⭐ </h1>
+<h3 align="center"> Back-end Developer</h3>
  <hr>
 
 <h1 align="center"> Sobre Mim </h1>
@@ -8,61 +9,58 @@
   <Li>Apaixonado por programação, games e literatura.</Li>
   <Li>Formado em Análise e Desenvolvimento de Sistemas - Pitágoras</Li>
   <li>💻 Estudei na <a href="https://www.coderhouse.com/br/">Coder House</a>, <a href="https://www.udemy.com/">Udemy</a> e <a href="https://www.alura.com.br/">Alura.</a>
-  <li>Eu sou uma pessoa entusiasmada por trabalhar em equipe e sou proativa. Possuo um grande desejo de aprender e estou constantemente em busca de me aprimorar através de novos desafios e oportunidades de aprendizado.</li>
-  <li>Atualmente estou trabalhando como Desenvolvedor front-end free lancer com o desenvolvimento de Landing pages, Blogs e Ecommerces com o intuito de aprimorar minhas habilidades com ReactJs e React Native.</li>
-  <li>Minha última experiência foi com criação/manutenção de APIS Rest usando Java Spring, controle de banco de dados com SQL Server, criação de aplicação com base em protótipo do Figma, integração ao front-end com Typescript e Angular e versionamento com Github/Jenkins</li>
   <Li>🚀Inglês escrita e leitura.</Li>
 </ul>
 
-<h1 align="center"> Minhas Hards Skills </h1>
+<h1 align="center"> Minhas Techs </h1>
 <table align="center" height="160px">
   <tr>
-    <td align="center">
-      <a href="https://pt-br.reactjs.org/">
-        <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br/>
+      <td align="center">
+      <a href="https://www.baeldung.com/java-17-new-features">
+        <img src="https://user-images.githubusercontent.com/104280692/185771743-fa0b2067-7d72-4fcb-a794-76dd750f26d5.png" width="65px" alt="Java icon"/><br/>
         <sub>
           <b>
-            <pre>React.js</pre>
+            <pre>Java</pre>
           </b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
-        <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br/>
+      <a href="https://spring.io/projects/spring-boot">
+        <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="Spring icon"/><br/>
         <sub>
           <b>
-            <pre>Javascript</pre>
+            <pre>Springboot</pre>
           </b>
         </sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://www.typescriptlang.org/">
-        <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="Typescript icon"/><br/>
-        <sub>
-          <b>
-            <pre>Typescript</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-     <td align="center">
-      <a href="https://tailwindcss.com/">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind icon"/><br/>
+        <td align="center">
+      <a href="https://www.mysql.com/">
+      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br/>
       <sub>
         <b>
-          <pre>Tailwind</pre>
+          <pre>MySQL</pre>
         </b>
       </sub>
       </a>
     </td>   
     <td align="center">
-      <a href="https://sass-lang.com/">
-        <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="sass icon"/><br/>
+      <a href="https://www.mongodb.com/pt-br">
+        <img src="https://camo.githubusercontent.com/90700a62313a7ab044939bb96a71304f22a7e179cc503cd565b2e793e4f492c0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667" width="65px" alt="MongoDB icon"/><br/>
         <sub>
           <b>
-            <pre>Sass</pre>
+            <pre>MongoDB</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.docker.com/">
+        <img src="https://skillicons.dev/icons?i=docker" width="65px" alt="docker icon"/><br/>
+        <sub>
+          <b>
+            <pre>Docker</pre>
           </b>
         </sub>
       </a>
@@ -77,52 +75,7 @@
         </sub>
       </a>
     </td>
-</table>
-
-<h1 align="center"> Minhas Basic Skills </h1>
-<table align="center" height="160px">
-  <tr>
-      <td align="center">
-      <a href="https://angular.dev/">
-        <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Angular icon"/><br/>
-        <sub>
-          <b>
-            <pre>Angular</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-     <td align="center">
-      <a href="https://www.java.com/pt-BR/">
-        <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java"/><br/>
-        <sub>
-          <b>
-            <pre>Java</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-         <td align="center">
-      <a href="https://spring.io/">
-        <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="Spring boot icon"/><br/>
-        <sub>
-          <b>
-            <pre>Springboot</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-        <td align="center">
-      <a href="https://www.mysql.com/">
-        <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br/>
-        <sub>
-          <b>
-            <pre>MySQL</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-         <td align="center">
+    <td align="center">
       <a href="https://www.jenkins.io/">
         <img src="https://skillicons.dev/icons?i=jenkins" width="65px" alt="Jenkins icon"/><br/>
         <sub>
@@ -132,7 +85,6 @@
         </sub>
       </a>
     </td>
-    </tr>
 </table>
 
 <h1 align="center"> Social </h1>
