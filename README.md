@@ -1,13 +1,14 @@
 <hr>
 
 <h1 align="center"> ⭐ Welcome! ⭐ </h1>
-<h3 align="center"> Back-end Developer</h3>
+<h3 align="center"> Full Stack Developer</h3>
  <hr>
 
 <h1 align="center"> Sobre Mim </h1>
 <ul align="left">
   <Li>Apaixonado por programação, games e literatura.</Li>
-  <Li>Formado em Análise e Desenvolvimento de Sistemas - Pitágoras</Li>
+  <Li>Formado em Análise e Desenvolvimento de Sistemas - Anhanguera</Li>
+ <Li>Cursando Pós graduação em Inteligência Artificial e Machine Learning - Anhanguera</Li>
   <li>💻 Estudei na <a href="https://www.coderhouse.com/br/">Coder House</a>, <a href="https://www.udemy.com/">Udemy</a> e <a href="https://www.alura.com.br/">Alura.</a>
   <Li>🚀Inglês escrita e leitura.</Li>
 </ul>
@@ -61,6 +62,36 @@
         <sub>
           <b>
             <pre>Docker</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="typescript icon"/><br/>
+        <sub>
+          <b>
+            <pre>Typescript</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://angular.dev/">
+        <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="angular icon"/><br/>
+        <sub>
+          <b>
+            <pre>Angular</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://angular.dev/">
+        <img src="https://skillicons.dev/icons?i=react" width="65px" alt="react icon"/><br/>
+        <sub>
+          <b>
+            <pre>React</pre>
           </b>
         </sub>
       </a>
