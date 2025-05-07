@@ -8,7 +8,7 @@
 <ul align="left">
   <Li>Apaixonado por programação, games e literatura.</Li>
   <Li>Formado em Análise e Desenvolvimento de Sistemas - Anhanguera</Li>
- <Li>Cursando Pós graduação em Engenharia de Software na PUC Minas - Anhanguera</Li>
+ <Li>Cursando Pós graduação em Engenharia de Software na PUC Minas -</Li>
   <li>💻 Estudei na <a href="https://www.coderhouse.com/br/">Coder House</a>, <a href="https://www.udemy.com/">Udemy</a> e <a href="https://www.alura.com.br/">Alura.</a>
   <Li>🚀Inglês escrita e leitura.</Li>
 </ul>
